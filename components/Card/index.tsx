@@ -1,3 +1,4 @@
+import React from 'react';
 import Thumbnail from '../Thumbnails';
 
 interface CardsProps {
